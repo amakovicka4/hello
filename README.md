@@ -1,2 +1,2 @@
    https://github.com/amakovicka4/hello
-   https://github.com/mypartner/hello
+   https://github.com/Bryce-Dutton/hello
